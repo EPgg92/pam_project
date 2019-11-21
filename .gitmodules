@@ -1,0 +1,15 @@
+[submodule "old_pam"]
+	path = old_pam
+	url = https://github.com/poggioenzo/old_pam
+[submodule "pam"]
+	path = pam
+	url = https://github.com/poggioenzo/pam
+[submodule "pam_corpus"]
+	path = pam_corpus
+	url = https://github.com/poggioenzo/pam_corpus
+[submodule "pam_talk"]
+	path = pam_talk
+	url = https://github.com/poggioenzo/pam_talk
+[submodule "syllabise_py"]
+	path = syllabise_py
+	url = https://github.com/poggioenzo/syllabise_py
